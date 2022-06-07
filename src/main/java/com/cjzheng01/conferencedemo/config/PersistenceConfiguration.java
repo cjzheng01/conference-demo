@@ -1,4 +1,4 @@
-package com.pluralsight.conferencedemo.config;
+package com.cjzheng01.conferencedemo.config;
 
 import org.springframework.boot.jdbc.DataSourceBuilder;
 import org.springframework.context.annotation.Bean;

@@ -1,7 +1,7 @@
-package com.pluralsight.conferencedemo.controllers;
+package com.cjzheng01.conferencedemo.controllers;
 
-import com.pluralsight.conferencedemo.models.Session;
-import com.pluralsight.conferencedemo.repositories.SessionRepository;
+import com.cjzheng01.conferencedemo.repositories.SessionRepository;
+import com.cjzheng01.conferencedemo.models.Session;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

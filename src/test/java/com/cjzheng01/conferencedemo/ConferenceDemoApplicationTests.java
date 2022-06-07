@@ -1,4 +1,4 @@
-package com.pluralsight.conferencedemo;
+package com.cjzheng01.conferencedemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.pluralsight.conferencedemo.models;
+package com.cjzheng01.conferencedemo.models;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
