@@ -18,6 +18,8 @@ public class Session {
             joinColumns = @JoinColumn(name = "session_id"),
             inverseJoinColumns = @JoinColumn(name = "speaker_id")
     )
+    private List<Speaker> speakers;
+
     public List<Speaker> getSpeakers() {
         return speakers;
     }
@@ -26,7 +28,7 @@ public class Session {
         this.speakers = speakers;
     }
 
-    private List<Speaker> speakers;
+
 
     public Session() {
     }
